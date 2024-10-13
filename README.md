@@ -1,12 +1,15 @@
 ## Hi there 👋
 
+I'm Sanskruti Pravin Yeole, a passionate Information Technology student at IIIT Lucknow (Class of 2026) with experience in web development and scripting. I love contributing to projects using HTML, CSS, JavaScript, and C++. I'm also enthusiastic about open-source contributions and building solutions that make a difference.
+
 <!--
 **yeolesanskruti/yeolesanskruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center"> Statistics 📊 </h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeolesanskruti&show_icons=true&locale=en&theme=onedark&hide=css,html,shell,Vim%20script&layout=compact&langs_count=10" alt="language stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeolesanskruti&show_icons=true&locale=en&theme=onedark" alt="hello" />
