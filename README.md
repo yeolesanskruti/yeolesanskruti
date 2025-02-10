@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sanskruti Pravin Yeole, a passionate Information Technology student at IIIT Lucknow (Class of 2026) with experience in web development and scripting. I love contributing to projects using HTML, CSS, JavaScript, and C++. I'm also enthusiastic about open-source contributions and building solutions that make a difference.
+I'm Sanskruti Pravin Yeole, a passionate Information Technology student at IIIT Lucknow (Class of 2026) with experience in web development and scripting. I love contributing to projects exploring variety of techstacks. I'm also enthusiastic about open-source contributions and building solutions that make a difference.
 
 <!--
 **yeolesanskruti/yeolesanskruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
